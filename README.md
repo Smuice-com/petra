@@ -1,4 +1,4 @@
-# Free Nuxtjs Tailwindcss landing page template
+# Free Nuxtjs Tailwindcss landing page template with RTL support
 
 ![Open Nuxjs tailwindcss template preview](https://i.ibb.co/C5BwVMn/nuxtjs-tailwindcss.png)
 
@@ -27,3 +27,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 Builds the app for production to the `dist` folder.<br>
 
 Your app is ready to be deployed!
+
+#### RTL Support
+
+To enable the RTL you need to add the following HTML attribute on the main wrapper of the app
+
+dir="rtl"
