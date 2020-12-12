@@ -1,20 +1,35 @@
-# petra
+# Free Nuxtjs Tailwindcss landing page template with RTL support
 
-## Build Setup
+![Open Nuxjs tailwindcss template preview](https://i.ibb.co/C5BwVMn/nuxtjs-tailwindcss.png)
 
-```bash
-# install dependencies
-$ npm install
+**Petra** is a **free Nuxt.js TailwindCSS landing page template**
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+Use it for whatever you want, and be sure to reach us out on [Twitter](https://twitter.com/Smuice_com) if you build anything cool/useful with it.
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+Created and maintained with ❤️ by [Smuice.com](https://smuice.com).
 
-# generate static project
-$ npm run generate
-```
+## Live demo
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Check the live demo here  [https://smuice.com/demos/petra](https://smuice.com/demos/petra)
+
+## Install the project
+
+#### `npm install`
+To install the dependencies package.
+
+#### `npm run dev`
+
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+#### `npm run generate`
+
+Builds the app for production to the `dist` folder.<br>
+
+Your app is ready to be deployed!
+
+#### RTL Support
+
+To enable the RTL you need to add the following HTML attribute on the main wrapper of the app
+
+dir="rtl"
